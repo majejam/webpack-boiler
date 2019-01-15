@@ -1,4 +1,3 @@
-# webpack-boiler
 Webpack 4 Boilerplate
 ===========
 
